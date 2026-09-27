@@ -1,5 +1,3 @@
-markdown
-
 \# AWS Automated Backup \& Disaster Recovery System
 
 
